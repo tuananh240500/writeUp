@@ -2,7 +2,7 @@
 
 <img width="1166" alt="Hacker News" src="https://user-images.githubusercontent.com/48151790/126885975-3ece1c3c-5122-4c53-acc3-b0112fb03eba.png">
 
-. Try with SQLi?
+# . Try with SQLi?
 
   . find the columns number in the table: 
   
