@@ -13,7 +13,9 @@ https://adworld.xctf.org.cn/task/answer?type=web&number=3&grade=1&id=5442&page=1
 <img width="596" alt="Not Secure  111 200 241 24465197hint php" src="https://user-images.githubusercontent.com/48151790/126885866-4e35f948-c26d-4dea-ab1d-cbd9d8b8a0df.png">
 
 => Maybe Path traversal???
+
 => ../../ffffllllaaaagggg
+
 => bypass: ?file=source.php?%3F../../../../../ffffllllaaaagggg
 
 <img width="810" alt="Screen Shot 2021-07-22 at 21 31 39" src="https://user-images.githubusercontent.com/48151790/126885891-5fdf872b-0851-49ca-bc14-f7115d91a384.png">
