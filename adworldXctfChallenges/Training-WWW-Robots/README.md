@@ -7,4 +7,3 @@
 
 <img width="588" alt="Not Secure  111 200 241 24459618f10g php" src="https://user-images.githubusercontent.com/48151790/126885543-977cde9e-0fef-4262-a7d6-03079862900d.png">
 
-# => flag
