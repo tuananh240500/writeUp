@@ -1,4 +1,4 @@
-https://adworld.xctf.org.cn/task/answer?type=web&number=3&grade=1&id=5411&page=1
+Challenge: https://adworld.xctf.org.cn/task/answer?type=web&number=3&grade=1&id=5411&page=1
 
 . check file index.php
 
