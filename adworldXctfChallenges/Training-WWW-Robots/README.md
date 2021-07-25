@@ -1,3 +1,5 @@
+https://adworld.xctf.org.cn/task/answer?type=web&number=3&grade=1&id=4748&page=1
+
 . robots.txt
 
 <img width="502" alt="A Not Secure 111 200 241 24459618robots txt" src="https://user-images.githubusercontent.com/48151790/126885539-4b5c5bdc-2e2b-4959-8dad-5a7221aadc82.png">
