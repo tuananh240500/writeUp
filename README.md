@@ -1,1 +1,1 @@
-# write up with me
+# Play CTF with me!!!
