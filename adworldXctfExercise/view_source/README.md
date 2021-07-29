@@ -4,6 +4,6 @@
 
 View source...  but you can right click???
 
-=> payload: `view-source:`
+=> payload: `view-source:` or `F12`
 
 <img width="513" alt="Screen Shot 2021-07-26 at 14 11 05" src="https://user-images.githubusercontent.com/48151790/126947567-a80b442b-53a0-4c8f-82f6-613982088a4c.png">
