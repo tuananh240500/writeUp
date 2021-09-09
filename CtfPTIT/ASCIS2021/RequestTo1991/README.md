@@ -28,10 +28,10 @@ Cách 2: File a_d_m_i_n.aspx có gợi ý là "if you are Smuggler"
   
   + Bước 1: Sử dụng BurpSuite để bắt request 
   
-  + Bước 2: Bỏ trường connection: close
+  + Bước 2: Bỏ trường Connection: Close
   
-  + Bước 3: Thêm request "GET /a_d_m_i_n.aspx" vào bên dưới requets bắt được 
+  + Bước 3: Thêm request "GET /a_d_m_i_n.aspx" vào bên dưới request bắt được 
   
-  + Bước 4: Thay đổi conntent-length sao sao cho bao gồm cả request mới, tắt chế độ auto update request của Burp Suite
+  + Bước 4: Thay đổi Conntent-Length sao sao cho bao gồm cả request mới, tắt chế độ auto update request của Burp Suite
   
   =›Thu được Flag
