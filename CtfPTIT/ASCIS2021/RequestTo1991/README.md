@@ -20,11 +20,11 @@ Hic server bài này đóng mất rồi nên không có ảnh chụp cụ thể 
 
 Đến đây bài này có 2 cách làm.
 
-Cách 1: Sử dụng telnet connect đến server sau đó gửi request GET /a_d_m_i_n.aspx =› Thu được Flag
+Cách 1: Sử dụng telnet kết  đến server sau đó gửi request "GET /a_d_m_i_n.aspx" =› Thu được Flag
 
 Cách 2: File a_d_m_i_n.aspx có gợi ý là "if you are Smuggler"
 
-  =› Ta có thể lợi dụng lỗ hổng HTTP Request Smuggling để làm
+  =› Ta có thể lợi dụng lỗ hổng HTTP Request Smuggling để khai thác
   
   + Bước 1: Sử dụng BurpSuite để bắt request 
   
